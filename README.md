@@ -1,3 +1,3 @@
 # ModuleSpace Products
 
-Welcome to the ModuleSpace Products repository. Home of all our products. This is the place Information about all our products is hosted.
+Welcome to the ModuleSpace Products Repository. Home of all our Products and where Information about all our Products is hosted.
