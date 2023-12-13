@@ -1,0 +1,9 @@
+{
+    "name": "Test Produkt",
+    
+    "description": "Das ist ein Test-Produkt mit Bild",
+    
+    "price_eur": 2,
+
+    "reduce": 0.25
+}
