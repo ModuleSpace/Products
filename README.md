@@ -4,4 +4,4 @@ Welcome to the ModuleSpace Products Repository. Home of all our Products and whe
 
 # Note
 
-Our Site and all of our Software, including this Repository, are in heavy Development.
+This repository is NO LONGER maintained. We decided to host our Product-Information on our own Servers.
